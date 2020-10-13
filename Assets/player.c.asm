@@ -1,0 +1,23 @@
+
+# WHILE 
+:LBL_0148
+	PUSH 1
+	BRF @LBL_0149
+
+# WHILE BLOCK
+# BEGIN BLOCK
+
+# Assignment Statement 
+
+# SENSE FUNC (builtin)
+	PUSH 2
+	SENSE 
+	SAVE %d
+
+# MOVE FUNC (builtin)
+	LOAD %d
+	MOVE 
+
+# END BLOCK
+	JMP @LBL_0148
+:LBL_0149

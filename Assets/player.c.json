@@ -1,0 +1,24 @@
+[
+
+
+{
+
+"while" : {
+"number" : 1},
+"block": {
+"assignment" : { 
+"identifier" : "d",
+"sense" : {
+"number" : 2}
+
+}
+,
+"move" : {
+"identifier" : "d"}
+}
+
+}
+
+
+]
+

@@ -1,0 +1,110 @@
+[
+
+
+{
+
+"assignment" : { 
+"identifier" : "max_moves",
+"expression" : { 
+"operand" : "+",
+"lhs" : {
+"number" : 2
+},
+"rhs" : {
+"rand" : {
+"number" : 16}
+
+}
+}
+
+}
+
+}
+
+,
+
+
+{
+
+"assignment" : { 
+"identifier" : "spin",
+"number" : 1
+}
+
+}
+
+,
+
+
+{
+
+"assignment" : { 
+"identifier" : "dir",
+"number" : 1
+}
+
+}
+
+,
+
+
+{
+
+"while" : {
+"number" : 1},
+"block": {
+"assignment" : { 
+"identifier" : "moves",
+"identifier" : "max_moves"
+}
+,
+"while" : {
+"expression" : { 
+"operand" : ">",
+"lhs" : {
+"identifier" : "moves"
+},
+"rhs" : {
+"number" : 0
+}
+}
+},
+"block": {
+"assignment" : { 
+"identifier" : "moves",
+"expression" : { 
+"operand" : "-",
+"lhs" : {
+"identifier" : "moves"
+},
+"rhs" : {
+"number" : 1
+}
+}
+
+}
+,
+"move" : {
+"identifier" : "dir"}
+}
+,
+"assignment" : { 
+"identifier" : "dir",
+"expression" : { 
+"operand" : "+",
+"lhs" : {
+"identifier" : "dir"
+},
+"rhs" : {
+"identifier" : "spin"
+}
+}
+
+}
+}
+
+}
+
+
+]
+

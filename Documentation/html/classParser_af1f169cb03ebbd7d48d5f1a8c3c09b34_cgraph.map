@@ -1,0 +1,4 @@
+<map id="Parser::CountNodes" name="Parser::CountNodes">
+<area shape="rect" id="node1" title="Searches through all of a nodes children and adds that count to nodeTotal." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node2" href="$classASTNode.html#a5812b039c23acbaf498c78be0bb50c42" title=" " alt="" coords="195,5,367,32"/>
+</map>

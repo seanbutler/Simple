@@ -1,0 +1,5 @@
+<map id="PlayerAgentType" name="PlayerAgentType">
+<area shape="rect" id="node1" title=" " alt="" coords="18,373,161,451"/>
+<area shape="rect" id="node2" href="$classDetectableAgentType.html" title=" " alt="" coords="5,175,173,325"/>
+<area shape="rect" id="node3" href="$classAgentType.html" title=" " alt="" coords="37,5,142,127"/>
+</map>

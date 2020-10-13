@@ -1,0 +1,4 @@
+<map id="Parser::ValidateBranch" name="Parser::ValidateBranch">
+<area shape="rect" id="node1" title=" " alt="" coords="195,5,351,32"/>
+<area shape="rect" id="node2" href="$classParser.html#a33358e3ff3e35dbd4b16b445f1986a46" title="Checks to see if the AST is valid (trees may sometimes be invalid after crossover)" alt="" coords="5,5,147,32"/>
+</map>

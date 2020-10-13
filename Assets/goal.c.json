@@ -1,0 +1,31 @@
+[
+
+
+{
+
+"assignment" : { 
+"identifier" : "a",
+"number" : 1
+}
+
+}
+
+,
+
+
+{
+
+"while" : {
+"identifier" : "a"},
+"block": {
+"assignment" : { 
+"identifier" : "a",
+"number" : 1
+}
+}
+
+}
+
+
+]
+

@@ -1,0 +1,19 @@
+[
+
+
+{
+
+"while" : {
+"number" : 1},
+"block": {
+"assignment" : { 
+"identifier" : "d",
+"number" : 0
+}
+}
+
+}
+
+
+]
+

@@ -1,0 +1,21 @@
+digraph G {
+node135 [ label = "assign:"];
+node0 -> node135;
+node133 [ label = "a"];
+node135 -> node133;
+node134 [ label = "1"];
+node135 -> node134;
+node141 [ label = "while:"];
+node0 -> node141;
+node136 [ label = "a"];
+node141 -> node136;
+node137 [ label = "block:" ];
+node141 -> node137;
+node140 [ label = "assign:"];
+node137 -> node140;
+node138 [ label = "a"];
+node140 -> node138;
+node139 [ label = "1"];
+node140 -> node139;
+
+}

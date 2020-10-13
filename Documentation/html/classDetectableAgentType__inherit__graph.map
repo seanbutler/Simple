@@ -1,0 +1,8 @@
+<map id="DetectableAgentType" name="DetectableAgentType">
+<area shape="rect" id="node1" title=" " alt="" coords="273,175,441,325"/>
+<area shape="rect" id="node3" href="$classGoalAgentType.html" title=" " alt="" coords="5,373,173,451"/>
+<area shape="rect" id="node4" href="$classHealingAgentType.html" title=" " alt="" coords="197,373,347,451"/>
+<area shape="rect" id="node5" href="$classHurtfulAgentType.html" title=" " alt="" coords="371,373,515,451"/>
+<area shape="rect" id="node6" href="$classPlayerAgentType.html" title=" " alt="" coords="539,373,682,451"/>
+<area shape="rect" id="node2" href="$classAgentType.html" title=" " alt="" coords="305,5,410,127"/>
+</map>

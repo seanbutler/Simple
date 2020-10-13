@@ -1,0 +1,16 @@
+
+# WHILE 
+:LBL_0256
+	PUSH 1
+	BRF @LBL_0257
+
+# WHILE BLOCK
+# BEGIN BLOCK
+
+# Assignment Statement 
+	PUSH 0
+	SAVE %d
+
+# END BLOCK
+	JMP @LBL_0256
+:LBL_0257
