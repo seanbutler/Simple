@@ -1,6 +1,0 @@
-<map id="Parser::GenerateVar" name="Parser::GenerateVar">
-<area shape="rect" id="node1" title="Creates a new variable node. Note state is passed by ref here since it needs to add the variable to s..." alt="" coords="481,5,623,32"/>
-<area shape="rect" id="node2" href="$classParser.html#a41800d766991dbae0247e605e86a90dd" title="Creates a random AST Node that is legal as a child of a block." alt="" coords="249,5,433,32"/>
-<area shape="rect" id="node3" href="$classParser.html#a23529c21ba3ce723a9ee5ad60a3d215d" title="Randomly creates a new if or while node and a new block node." alt="" coords="26,5,181,32"/>
-<area shape="rect" id="node4" href="$classParser.html#a761d0aa12f5d6a2c3b3ade597e117063" title=" " alt="" coords="5,56,201,83"/>
-</map>

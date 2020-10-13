@@ -1,9 +1,0 @@
-<map id="ASTNode::GetCompType" name="ASTNode::GetCompType">
-<area shape="rect" id="node1" title=" " alt="" coords="847,31,1019,57"/>
-<area shape="rect" id="node2" href="$classParser.html#af1f169cb03ebbd7d48d5f1a8c3c09b34" title="Searches through all of a nodes children and adds that count to nodeTotal." alt="" coords="647,5,789,32"/>
-<area shape="rect" id="node6" href="$classParser.html#a65c4bed2339ea97d318c8d0e1288c139" title="Searches through all of a nodes children to find a given index." alt="" coords="637,56,799,83"/>
-<area shape="rect" id="node3" href="$classParser.html#abd88a4e76e0a2445e5d6df65e2e368e9" title="Returns the number of nodes of a given typeFilter in the current AST." alt="" coords="395,5,589,32"/>
-<area shape="rect" id="node4" href="$classParser.html#a1dc5572cfd540aad1e33b1c19e975d12" title="Returns a random node within the AST." alt="" coords="152,31,347,57"/>
-<area shape="rect" id="node5" href="$classAgent.html#aff33c8a175432f6153b3fc42233bbcee" title=" " alt="" coords="5,31,104,57"/>
-<area shape="rect" id="node7" href="$classParser.html#ae9d5b86df8199add9a71336e188c8394" title="Returns the nth (index) node in the AST of the given typeFilter." alt="" coords="419,56,565,83"/>
-</map>

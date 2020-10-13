@@ -1,8 +1,0 @@
-<map id="ASTNode::eval" name="ASTNode::eval">
-<area shape="rect" id="node1" title=" " alt="" coords="231,107,341,133"/>
-<area shape="rect" id="node2" href="$classOutputAST.html#aa079fed52a8fcfd0c625408a2960bca5" title=" " alt="" coords="35,5,153,32"/>
-<area shape="rect" id="node3" href="$classMoveAST.html#af8fb51fa7507b42b9a7d5b80ea94ce30" title=" " alt="" coords="38,56,150,83"/>
-<area shape="rect" id="node4" href="$classIfStatementAST.html#ae078c7a9ec08721bfd20d6d1add0a0c8" title=" " alt="" coords="20,107,168,133"/>
-<area shape="rect" id="node5" href="$classAssignmentStatementAST.html#af626ac7ed8223ed16f004c5807cc9e10" title=" " alt="" coords="5,158,183,199"/>
-<area shape="rect" id="node6" href="$classBinOperandAST.html#a820aa4b4e134036f635cb0eae489be17" title=" " alt="" coords="20,224,168,251"/>
-</map>

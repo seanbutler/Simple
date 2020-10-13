@@ -1,5 +1,0 @@
-<map id="Parser::GenerateBlock" name="Parser::GenerateBlock">
-<area shape="rect" id="node1" title="Randomly creates a new if or while node and a new block node." alt="" coords="481,5,636,32"/>
-<area shape="rect" id="node2" href="$classParser.html#a41800d766991dbae0247e605e86a90dd" title="Creates a random AST Node that is legal as a child of a block." alt="" coords="249,5,433,32"/>
-<area shape="rect" id="node3" href="$classParser.html#a761d0aa12f5d6a2c3b3ade597e117063" title=" " alt="" coords="5,5,201,32"/>
-</map>

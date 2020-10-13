@@ -1,6 +1,0 @@
-<map id="Genetics::MutationVisitor" name="Genetics::MutationVisitor">
-<area shape="rect" id="node1" title=" " alt="" coords="245,5,476,273"/>
-<area shape="rect" id="node2" href="$classGenetics_1_1RandomizeArithmeticMutation.html" title=" " alt="" coords="5,321,223,457"/>
-<area shape="rect" id="node3" href="$classGenetics_1_1RandomizeComparisonMutation.html" title=" " alt="" coords="247,321,475,457"/>
-<area shape="rect" id="node4" href="$classGenetics_1_1RandomizeNumberMutation.html" title=" " alt="" coords="499,321,703,457"/>
-</map>

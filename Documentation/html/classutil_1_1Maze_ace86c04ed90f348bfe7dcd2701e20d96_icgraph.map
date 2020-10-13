@@ -1,4 +1,0 @@
-<map id="util::Maze::wall" name="util::Maze::wall">
-<area shape="rect" id="node1" title=" " alt="" coords="231,5,341,32"/>
-<area shape="rect" id="node2" href="$classMazeEnvironment.html#a060d7f4bacb3022c48aabbba6aae86c3" title=" " alt="" coords="5,5,183,32"/>
-</map>

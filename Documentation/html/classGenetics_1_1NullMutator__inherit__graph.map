@@ -1,7 +1,0 @@
-<map id="Genetics::NullMutator" name="Genetics::NullMutator">
-<area shape="rect" id="node1" title=" " alt="" coords="357,5,506,259"/>
-<area shape="rect" id="node2" href="$classGenetics_1_1BlockShufflerMutator.html" title=" " alt="" coords="5,314,209,391"/>
-<area shape="rect" id="node3" href="$classGenetics_1_1IfToWhileMutator.html" title=" " alt="" coords="233,314,416,391"/>
-<area shape="rect" id="node4" href="$classGenetics_1_1RandomizeNumberMutator.html" title=" " alt="" coords="441,307,635,399"/>
-<area shape="rect" id="node5" href="$classGenetics_1_1WhileToIfMutator.html" title=" " alt="" coords="660,314,843,391"/>
-</map>

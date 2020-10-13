@@ -1,6 +1,7 @@
-# Glynth
+# Simple
 
-**An Experiment in genetic programming over a c-like language.**
+**This code is in the process of being extracted from a genetic programming experiment.
+An Experiment in genetic programming over a c-like language.**
 
 Written for video game mechanics and gameplay generation, but generally usable for any realtime simulation where you want to investigate evolution of agents with movement and avoidance.
 
@@ -27,9 +28,7 @@ Consists of a handful of subsections working together:
 
 All the parts exist with some bugs, but the evolutionary loop needs some work.
 
-
 ## Project Files & Directories
-
 
 ### Documentation/
 
@@ -87,13 +86,6 @@ Compiler which outputs bytecode and various intermediary files for a simple virt
     - Factory Classes
  - Specific Game Entities necessary for GP for games
 
-### Utils/
-
-- Independent ADTs not tied to our code but used.
-- e.g. Maze Generator which operate over simple data types like arrays of bools.
-
-
-# Evolution of game entity coded in in c-like scripting language
 
 ## Language Style
 
@@ -116,7 +108,7 @@ To achieve compatability of resulting programs after mutation and or crossovers 
 The code looks like this:
 ![](./Media/Screenshot_3.png)
 
-Which compiles into the following AST and eventual byte code. We do the genetic algorithm by performing tree operations on this tree.
+Which compiles into the following AST and eventual byte code. 
 ![](./Media/Screenshot_4.png)
 
 ## Agents Interrogate the World

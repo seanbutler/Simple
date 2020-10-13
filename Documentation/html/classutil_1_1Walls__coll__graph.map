@@ -1,6 +1,0 @@
-<map id="util::Walls" name="util::Walls">
-<area shape="rect" id="node1" title=" " alt="" coords="63,175,181,311"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,52,83"/>
-<area shape="rect" id="node3" title=" " alt="" coords="76,5,168,83"/>
-<area shape="rect" id="node4" title=" " alt="" coords="193,5,299,83"/>
-</map>
